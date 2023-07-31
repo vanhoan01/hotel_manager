@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<QuanLyKhachSan>
+  <LoaiPhong maLoai="LP00001" tenLoai="Tiêu chuẩn" giaPhong="300000.0000" />
+  <LoaiPhong maLoai="LP00002" tenLoai="Cao cấp" giaPhong="600000.0000" />
+  <LoaiPhong maLoai="LP00003" tenLoai="Hạng sang" giaPhong="1200000.0000" />
+  <LoaiPhong maLoai="LP00004" tenLoai="Thượng hạng" giaPhong="2400000.0000" />
+</QuanLyKhachSan>

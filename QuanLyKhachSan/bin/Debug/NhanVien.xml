@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/xsl' href='NhanVien.xsl'?>
+<QuanLyKhachSan>
+  <NhanVien maNV="NV00001" hoTen="Trương Bình An" diaChi="Tp. Hồ Chí Minh" SDT="0902005505" canCuoc="206353221" gioiTinh="Nam" matKhau="admin" hoatDong="1" mucLuong="10000.0000" maCV="CV00001" />
+  <NhanVien maNV="NV00002" hoTen="Ao Công Thắng" diaChi="Hà Nội" SDT="0388121664" canCuoc="046202009308" gioiTinh="Nam" matKhau="congthang" hoatDong="1" mucLuong="10000.0000" maCV="CV00002" />
+  <NhanVien maNV="NV00003" hoTen="Đặng Thị Anh Vy" diaChi="Tp. Đà Nẵng" SDT="00332455684" canCuoc="212589083" gioiTinh="Nữ" matKhau="anhvy" hoatDong="1" mucLuong="10000.0000" maCV="CV00003" />
+  <NhanVien maNV="NV00004" hoTen="Đặng Bá Vinh" diaChi="Tp. Hồ Chí Minh" SDT="0941230357" canCuoc="197417407" gioiTinh="Nam" matKhau="bavinh" hoatDong="1" mucLuong="10000.0000" maCV="CV00004" />
+  <NhanVien maNV="NV00005" hoTen="Đặng Sĩ Lộc" diaChi="Tp. Đà Nẵng" SDT="0868991913" canCuoc="44202004147" gioiTinh="Nam" matKhau="syloc" hoatDong="1" mucLuong="10000.0000" maCV="CV00005" />
+</QuanLyKhachSan>

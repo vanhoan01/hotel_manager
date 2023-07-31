@@ -1,0 +1,76 @@
+C:\Users\nguye\source\repos\CNXML\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\nguye\source\repos\CNXML\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\source\repos\CNXML\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\source\repos\CNXML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\CNXML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\nguye\source\repos\CNXML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+C:\Users\nguye\source\repos\CNXML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\CNXML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\CNXML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\source\repos\CNXML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\source\repos\CNXML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongKe.resources
+C:\Users\nguye\source\repos\CNXML\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DangNhap.resources
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDon.resources
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmKhachHang.resources
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTaiKhoan.resources
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DangNhap.resources
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongKe.resources
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\source\repos\CNXML\Nhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmKhachHang.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDon.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTaiKhoan.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DangNhap.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongKe.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDon.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTaiKhoan.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmKhachHang.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DangNhap.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongKe.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDon.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTaiKhoan.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmKhachHang.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.DangNhap.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongKe.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\OneDrive\Documents\Kỳ 5\Công Nghệ XML\Bài tập\Cuối kỳ\QuanLyKhachSan_Nhom17\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb

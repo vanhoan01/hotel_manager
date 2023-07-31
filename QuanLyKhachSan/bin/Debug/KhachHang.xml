@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/xsl' href='KhachHang.xsl'?>
+<QuanLyKhachSan>
+  <KhachHang maKH="KH00001" hoTen="Lê Công Tuấn" diaChi="Tp. Hồ Chí Minh" SDT="0338894202" canCuoc="215572619" gioiTinh="Nam" />
+  <KhachHang maKH="KH00002" hoTen="Lê Đình Thiện" diaChi="Tp. Hồ Chí Minh" SDT="0342012065" canCuoc="045202006194" gioiTinh="Nam" />
+  <KhachHang maKH="KH00003" hoTen="Lê Đức Hoàng" diaChi="Tp. Hồ Chí Minh" SDT="0912768911" canCuoc="049202002636" gioiTinh="Nam" />
+  <KhachHang maKH="KH00004" hoTen="Ngô Công Phúc" diaChi="Tp. Hồ Chí Minh" SDT="0934972421" canCuoc="206393041" gioiTinh="Nam" />
+  <KhachHang maKH="KH00005" hoTen="Nguyễn Thị Thư Trang" diaChi="Tp. Hồ Chí Minh" SDT="0935183250" canCuoc="206468001" gioiTinh="Nữ" />
+  <KhachHang maKH="KH00006" hoTen="Phan Thị Hoài Anh" diaChi="Tp. Hồ Chí Minh" SDT="0389639263" canCuoc="215563862" gioiTinh="Nữ" />
+  <KhachHang maKH="KH00007" hoTen="Võ Thị Hoàng Dung" diaChi="Tp. Hồ Chí Minh" SDT="0375681090" canCuoc="212465033" gioiTinh="Nữ" />
+</QuanLyKhachSan>
